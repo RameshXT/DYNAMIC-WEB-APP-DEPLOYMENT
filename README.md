@@ -73,8 +73,5 @@ The Dynamic Web App Deployment project demonstrates the creation and deployment 
 - **Servlet Issues**: Debug Java Servlets and ensure correct JSON responses.
 - **Frontend Problems**: Check browser console for JavaScript errors and network issues.
 
-## Contact
-
-For any questions or feedback, please contact [Ramesh Kanna G](mailto:rameshkanna841@gmail.com).
 
 ---
